@@ -12,4 +12,9 @@ Nste desafio criaremos um Space Shooter utilizando HTML, CSS e Javascript. Farem
 - JavaScript
 
 ## Editor de código
-[Atom](https://atom.io/) - A hackable text editor for the 21st Century
+[Atom](https://atom.io/) - A hackable text editor for the 21st Century.
+
+
+## Projeto
+Este projeto faz parte do Bootcamp **JavaScript Game Developer** da Dio, sob
+mentoria da Gabriela Pinheiro.
